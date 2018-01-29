@@ -15,3 +15,28 @@
  
 */
 
+/*
+You are an exterminator. You are going to be building an application to help you keep track of how many vermin you have disposed. to start off declare a constant named ratRate with a value of 5.6. this will be the rate you charge per rat you kill. additionaly create a variable called deadRats set to 0
+ */
+
+
+
+/*
+ You start your day by finding a small bundle of vermin and deal with them. Add 3 to deadRats and print your result.
+ */
+
+
+
+
+/*
+you find another group of rats and double your kill count. double deadRats using multiplication and print your result.
+ */
+
+
+/*
+ In your excitement to find so many rats you dont finish the job properly and two rate pop up from playing dead and scurry awway. Adjust deadRats using a compound opporator to reflect the loss of these 2 rats and print your result.
+ */
+
+/*
+Finnaly it's the end of the day and time to get paid. create a variable called pay and set it to the result of deadRats times ratRate. Does the code compile? use a temporary type conversion to assign deadRats as a double and print your result.
+ */
